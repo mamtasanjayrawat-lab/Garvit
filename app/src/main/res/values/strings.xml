@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NOVA AI</string>
+    <string name="tagline">Next-Gen Intelligent Assistant</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_tools">Tools</string>
+    <string name="nav_settings">Settings</string>
+</resources>
+
